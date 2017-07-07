@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+    font-style:italic; 
+    
+}
+body{
+    background-color:#6666ff; 
+}
+#red{
+    color:red;
+}
+#dr{
+    width:300px;
+    
+}
+div{
+    padding:8px;
+    background-color:black;
+    margin-right:887px; 
+}
